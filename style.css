@@ -1,0 +1,106 @@
+body {
+  margin: 0;
+  text-align: center;
+}
+
+h1 {
+  margin-top: 0;
+  color: #D94052;
+  font-family: 'Sacramento', cursive;
+  font-size: 80px;
+}
+
+h2 {
+  font-family: 'Josefin Slab', serif;
+  font-style: italic;
+  color: #D43790;
+  margin-top: 5%;
+  margin-bottom: 5%;
+}
+
+h3 {
+  font-family: 'Open Sans', sans-serif;
+  font-style: italic;
+}
+
+p {
+  font-family: 'Open Sans', sans-serif;
+}
+
+.p1 {
+  font-family: 'Open Sans', sans-serif;
+  margin-bottom: 40px;
+}
+
+.hr {
+  border: 30px;
+  height: 30px;
+  width: 15%;
+  background-color: none;
+  background-image: url(flower.png);
+  background-repeat: space;
+  background-size: 60px auto;
+}
+
+.top-container {
+  background-color: #ffffed;
+}
+
+.cloud-left {
+  position: sticky;
+  top: 0;
+  width: 30%;
+  height: auto;
+}
+
+.cloud-right {
+  position: sticky;
+  top: 0;
+  width: 30%;
+  height: auto;
+}
+
+.image {
+  margin-top: -13%;
+}
+
+.middle-container {
+  background-color: #ededff;
+  margin: 0;
+}
+
+.BEA {
+  position: relative;
+  width: 10%;
+  height: auto;
+  margin-top: 20px;
+}
+
+.skill-row {
+  text-align: left;
+  line-height: 2;
+  width: 46%;
+  margin: 60px auto 90px auto;
+}
+
+.pc {
+  width: 20%;
+  float: left;
+  margin-right: 20px;
+}
+
+.shopping {
+  width: 25%;
+  float: right;
+  margin-left: 20px;
+}
+
+.bottom-container {
+  margin: -17px;
+  background-color: #edffff;
+}
+
+.mail {
+  width: 100px;
+  margin-bottom: -10px;
+}
